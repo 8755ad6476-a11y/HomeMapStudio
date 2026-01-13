@@ -1,0 +1,6 @@
+body { font-family: 'Roboto', sans-serif; }
+.hero { background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); }
+.card { transition: transform 0.3s; }
+.card:hover { transform: scale(1.05); }
+#map2d, #map3d { border-radius: 8px; }
+video { border-radius: 8px; }
